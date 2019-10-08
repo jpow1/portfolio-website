@@ -6691,7 +6691,7 @@ input, select, textarea {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
-		display: flex;
+		display: none;
 		-webkit-overflow-scrolling: touch;
 		position: relative;
 		background-color: transparent;
